@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="140" style="border-radius:50%;" />
+<img src="https://github.com/avatar.jpg" width="140" style="border-radius:50%;" />
 
 # 👋 Merhaba, Ben Yiğit Aslantaş
 
