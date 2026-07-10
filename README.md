@@ -7,7 +7,7 @@
 ### Software Developer
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/yiğit-aslantaş-249090392">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
 </p>
