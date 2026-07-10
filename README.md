@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://www.linkedin.com/in/yi%C4%9Fit-aslanta%C5%9F-249090392/" height="42"/>
+    <img src="www.linkedin.com/in/yiğit-aslantaş-249090392" height="42"/>
   </a>
 </p>
 
