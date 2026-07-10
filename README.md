@@ -1,80 +1,74 @@
-# Markdown syntax guide
+<div align="center">
 
-## Headers
+<img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="140" style="border-radius:50%;" />
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+# 👋 Merhaba, Ben Yiğit Aslantaş
 
-## Emphasis
+### Software Developer
 
-*This text will be italic*  
-_This will also be italic_
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+</p>
 
-**This text will be bold**  
-__This will also be bold__
+</div>
 
-_You **can** combine them_
+---
 
-## Lists
+## 🚀 Hakkımda
 
-### Unordered
+- 💻 Software Developer
+- 🌱 Sürekli yeni teknolojiler öğreniyorum.
+- ⚡ Temiz, okunabilir ve sürdürülebilir kod yazmayı seviyorum.
+- 🎯 Backend, Web Development ve Automation ile ilgileniyorum.
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
+---
 
-### Ordered
+## 🛠️ Teknolojiler
 
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
+<p align="center">
 
-## Images
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,php,laravel,js,ts,html,css,mysql,postgres,git,github,docker,vscode,idea,visualstudio" />
 
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+</p>
 
-## Links
+---
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+## 📊 GitHub İstatistikleri
 
-## Blockquotes
+<div align="center">
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## Tables
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+</div>
 
-## Blocks of code
+---
 
-```
-let message = 'Hello world';
-alert(message);
-```
+## 🔥 GitHub Streak
 
-## Mermaid diagrams
-```mermaid
-graph TD
-  A[Start] --> B{Decision}
-    A[Start] --> B{Decision}
+<div align="center">
 
-  B -->|Yes| C[Finish]
-  B -->|No| D[Alternate]
-    B -->|No| D[Alternate]
-```
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-## Inline code
+</div>
 
-This web site is using `markedjs/marked`.
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+</div>
